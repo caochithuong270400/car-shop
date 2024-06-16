@@ -1,0 +1,21 @@
+:root {
+    /* test variable */
+    --test-color: #4d49cc;
+    --test-color-2: #36aef9;
+    /* general (LIGHT MODE)*/
+    --light-title-color: #2d9bdf;
+    --primary-color: #424242;
+    --title-color: #e32e2e;
+    --background-color: #ffffff;
+    --sub-background-color: #ececec;
+
+    /* button */
+    /* --btn-text-theme: 'dark';
+    --ldp-btn-bg-color: #00000066;
+    --ldp-btn-color: #ffffff; */
+
+    /* Định nghĩa biến crgb(142, 228, 212)chính */
+
+    /* introduce */
+    --shadow-small-img: #00000066;
+}

@@ -1,0 +1,39 @@
+/* global.css */
+
+.v-card {
+  font-family: Arial, sans-serif;
+  background-color: var(--background-color) !important;
+  color: var(--primary-color);
+  font-size: 15px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title-font {
+  color: var(--title-color);
+  font-weight: bold;
+  font-size: 20px
+}
+
+.header-title {
+  font-size: 20px
+}
+
+.common-text {
+  color: var(--primary-color)
+}
+
+.common-title {
+  color: var(--title-color)
+}
+
+.highlight-text {
+  color: var(--title-color);
+  font-weight: bold;
+}
+
+
+/* Thêm các quy tắc CSS khác tại đây */
